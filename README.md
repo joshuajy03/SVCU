@@ -3,7 +3,9 @@ Download the repository, and use run.bat to run the application.
 The program will automatically read data from the google sheets, and calculate the price for each student with the discount factored in if applicable. The second part of the program will send an email to all the parents of the children.  
   
 To modify the email sent, modify email.txt. The first line is the subject, and the following is the email. Use the generic tags, as the program will personalize each email to the recipient for you
-IMPORTANT: In the email, you MUST use the SAME tags as they appear in the spreadsheet.
+IMPORTANT: In the email, you MUST use the SAME tags as they appear in the spreadsheet.  
+
+NOTE: The spreadshee ID needs to be changed for next year, and every year moving forward according to each new sign up sheet made. After that, the response sheet should also be modified so that tags will fit nicely. 
   
 ## Errors
 Token expired or revoked --> delete the tokens folder, then run compile.bat  
