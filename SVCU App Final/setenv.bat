@@ -1,0 +1,1 @@
+set classpath=%cd%\libs\javax.mail.jar;%cd%\libs\jaf-1_1_1\jaf-1.1.1\activation.jar;%cd%\libs\google-api-client-assembly-1.24.1-1.24.1\google-api-java-client\libs\*;%cd%\libs\google-api-services-sheets-v4-rev581-java-1.25.0\sheets\*;%cd%\libs\javax.servlet-3.0.1.jar;%cd%\java;
