@@ -16,7 +16,7 @@ The tokens folder is automatically created by the program according to the Googl
 Credentials are needed to be able to access Google Sheets.  
 
 ## Libraries
-If for some reason any of the libraries don't work, you can redownload them from the following links. Please put all the libraries into the libs folder.
+If for some reason any of the libraries don't work, you can redownload them from the following links. Please put all the libraries into the libs folder.  
 Email sending portion of the program.   
 Requires external libaries:  
 [javax mail](https://javaee.github.io/javamail/)  
