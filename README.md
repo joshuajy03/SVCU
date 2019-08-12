@@ -7,7 +7,7 @@ IMPORTANT: In the email, you MUST use the SAME tags as they appear in the spread
   
 ## Errors
 Token expired or revoked --> delete the tokens folder, then run compile.bat  
-Class unsupported or Java not old enough --> run compile.bat, then run run.bat
+Class unsupported or Java not old enough --> run compile.bat  
   
 ## Developer Notes
 The java folder holds all the classes that read / write data, send emails, as well as mask the password on the command line.  
